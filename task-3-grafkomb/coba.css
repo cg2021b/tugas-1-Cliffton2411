@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+p {
+    color: white;
+}
+
+.score {
+    position: fixed;
+    background-color: black;
+    margin-top: 20px;
+    margin-left: 10px;
+}
+
+button {
+    color: whitesmoke;
+    position: fixed;
+    margin-top: 50px;
+    margin-left: 10px;
+    background-color: black;
+}
+
+
